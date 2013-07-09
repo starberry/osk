@@ -35,10 +35,9 @@
   {"id": "key_j", "label": "j"},
   {"id": "key_k", "label": "k"},
   {"id": "key_l", "label": "l"},
-  {"id": "key_enter", "label": "Enter", "sLabel": "Enter", "func": "enter", "sFunc": "enter"}
+  {"id": "key_enter", "label": "Search", "func": "enter"}
  ],
  [
-  {"id": "key_left", "label": "←", "sLabel": "←", "func": "left", "sFunc": "left"},
   {"id": "key_z", "label": "z"},
   {"id": "key_x", "label": "x"},
   {"id": "key_c", "label": "c"},
@@ -46,6 +45,7 @@
   {"id": "key_b", "label": "b"},
   {"id": "key_n", "label": "n"},
   {"id": "key_m", "label": "m"},
+  {"id": "key_left", "label": "←", "sLabel": "←", "func": "left", "sFunc": "left"},
   {"id": "key_right", "label": "→", "sLabel": "→", "func": "right", "sFunc": "right"}
  ],
  [
